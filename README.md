@@ -1,18 +1,26 @@
-<h1 align="center">Hi there, I'm Alexander
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Cyber security student from Russia</h3>
+### Hi there 👋, my name is Alexander
+#### Cyber security student from Russia
 
-<!--
-**itsScout2/itsScout2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+🔭 I’m currently working on [university project](https://cabinet.miem.hse.ru/#/project/1222/) "Development of a subsystem for temperature stabilization of print heads of a large-format printer".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Technical skills: 
+  - C       ![70%](https://progress-bar.dev/70)
+  - C++     ![70%](https://progress-bar.dev/70)
+  - C# !    ![60%](https://progress-bar.dev/60)
+  - Python  ![55%](https://progress-bar.dev/55)
+  - Lua     ![55%](https://progress-bar.dev/55)
+  - LaTeX   ![70%](https://progress-bar.dev/70)
+  - HTML    ![45%](https://progress-bar.dev/45)
+  - CSS     ![30%](https://progress-bar.dev/30)
+  
+ ##### Languages:
+  - Russian (native)
+  - English ([B2 Upper Intermediate](https://drive.google.com/file/d/1_3wWGuqlEWH-pJUyc5GlHgLHOCVHXFuJ/view?usp=sharing)) 
+
+
+
+
+
+
