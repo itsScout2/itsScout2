@@ -8,7 +8,7 @@ ___
 ##### Technical skills: 
   - C       ![70%](https://progress-bar.dev/70)
   - C++     ![70%](https://progress-bar.dev/70)
-  - C# !    ![60%](https://progress-bar.dev/60)
+  - C#      ![60%](https://progress-bar.dev/60)
   - Python  ![55%](https://progress-bar.dev/55)
   - Lua     ![55%](https://progress-bar.dev/55)
   - LaTeX   ![70%](https://progress-bar.dev/70)
