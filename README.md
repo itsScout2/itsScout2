@@ -2,8 +2,7 @@
 #### Cyber security student from Russia
 
 ___
-
-🔭 I’m currently working on [university project](https://cabinet.miem.hse.ru/#/project/1222/) "Development of a subsystem for temperature stabilization of print heads of a large-format printer".
+🛠️ Just finished working on [university project](https://cabinet.miem.hse.ru/#/project/1222/) "Development of a subsystem for temperature stabilization of print heads of a large-format printer". [customer feedback](https://disk.yandex.ru/i/vAqq23aLrrwCiw)
 
 ##### Technical skills: 
   - C       ![70%](https://progress-bar.dev/70)
