@@ -10,7 +10,7 @@ ___
   - C#      ![60%](https://progress-bar.dev/60)
   - Python  ![60%](https://progress-bar.dev/60)
   - Lua     ![55%](https://progress-bar.dev/55)
-  - Assembler ![33%]((https://progress-bar.dev/33)
+  - Assembler ![33%](https://progress-bar.dev/33)
   - LaTeX   ![70%](https://progress-bar.dev/70)
   - HTML    ![45%](https://progress-bar.dev/45)
   - CSS     ![30%](https://progress-bar.dev/30)
